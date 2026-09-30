@@ -62,7 +62,7 @@ export const LoveLetterSection: React.FC = () => {
                 {/* Subtle Postage Stamp */}
                 <div className="self-end w-14 h-16 rounded-lg bg-pink-100/10 border-2 border-dashed border-romantic-300/40 p-1 flex flex-col items-center justify-center">
                   <span className="text-xl">💌</span>
-                  <span className="text-[9px] font-mono text-romantic-200 uppercase mt-0.5">ROSHANI</span>
+                  <span className="text-[9px] font-mono text-romantic-200 uppercase mt-0.5">MY LOVE</span>
                 </div>
 
                 {/* Wax Seal in Center */}
@@ -73,7 +73,7 @@ export const LoveLetterSection: React.FC = () => {
                 {/* Recipient Address */}
                 <div className="text-left font-serif text-cream-200 space-y-0.5">
                   <p className="text-xs uppercase tracking-widest text-gold-300/80 font-mono">To My Beautiful Wife:</p>
-                  <p className="text-xl font-bold text-white font-handwriting">{BIRTHDAY_CONFIG.recipientName}</p>
+                  <p className="text-xl font-bold text-white font-handwriting">My Baby, Roshani ❤️</p>
                 </div>
               </div>
 

@@ -68,7 +68,7 @@ export const BIRTHDAY_CONFIG = {
 
   // Opening screen sequence
   opening: {
-    greeting: "Hey Roshani… ❤️",
+    greeting: "Hey Baby… ❤️",
     subheading: "I made a little something for you.",
     buttonText: "✨ Open Your Birthday Surprise ✨",
     warningText: "“Warning: You may smile a lot.” 😌❤️",
@@ -82,7 +82,7 @@ export const BIRTHDAY_CONFIG = {
     subtitle: "And somehow, I got lucky enough to call her my wife. ❤️",
     candlesCount: 5,
     instruction: "Tap each glowing candle to blow it out 🎂",
-    allBlownTitle: "Make a wish, Roshani…",
+    allBlownTitle: "Make a wish, my love… ❤️",
     allBlownMessage: "I hope every wish you make today finds its way to you.",
     buttonMakeWish: "✨ Make My Birthday Wish ✨",
   },
@@ -99,7 +99,7 @@ export const BIRTHDAY_CONFIG = {
     questions: [
       {
         id: 1,
-        question: "Who loves Roshani more?",
+        question: "Who loves you more?",
         options: [
           { key: 'A', text: "Me", isCorrect: true, funnyReaction: "Spot on! But wait, so are the others..." },
           { key: 'B', text: "Also me", isCorrect: true, funnyReaction: "Exactly true! 100% verified." },
@@ -112,17 +112,17 @@ export const BIRTHDAY_CONFIG = {
         question: "What is Sunil's absolute favorite view in the entire world?",
         options: [
           { key: 'A', text: "The Swiss Alps at sunrise", isCorrect: false, funnyReaction: "Nice mountains, but nah!" },
-          { key: 'B', text: "Roshani laughing until her eyes crinkle ❤️", isCorrect: true, funnyReaction: "A million times YES! 🥰" },
+          { key: 'B', text: "You laughing until your eyes crinkle ❤️", isCorrect: true, funnyReaction: "A million times YES! 🥰" },
           { key: 'C', text: "A fresh slice of warm pizza", isCorrect: false, funnyReaction: "Close second, but you still win!" },
         ],
         explanation: "Nothing in this world lights up my day like your laugh and bright smile.",
       },
       {
         id: 3,
-        question: "When Roshani says 'I'm not even hungry', what does it actually mean?",
+        question: "When you say 'I'm not even hungry', what does it actually mean?",
         options: [
           { key: 'A', text: "She genuinely is not hungry", isCorrect: false, funnyReaction: "Said no husband ever 😂" },
-          { key: 'B', text: "She will eat 60% of Sunil's food as tax 🍟", isCorrect: true, funnyReaction: "Guilty as charged! Every single time." },
+          { key: 'B', text: "You will eat 60% of Sunil's food as tax 🍟", isCorrect: true, funnyReaction: "Guilty as charged! Every single time." },
           { key: 'C', text: "She just wants a tiny sip of water", isCorrect: false, funnyReaction: "Nice try!" },
         ],
         explanation: "What is mine is yours, especially the fries, desserts, and snacks!",
@@ -139,7 +139,7 @@ export const BIRTHDAY_CONFIG = {
       },
       {
         id: 5,
-        question: "How long is Sunil going to love Roshani?",
+        question: "How long is Sunil going to love you?",
         options: [
           { key: 'A', text: "As long as the stars shine ✨", isCorrect: true, funnyReaction: "And far beyond that." },
           { key: 'B', text: "Today, tomorrow, and every lifetime ♾️", isCorrect: true, funnyReaction: "Always and forever." },
@@ -391,11 +391,11 @@ export const BIRTHDAY_CONFIG = {
   // 7. LOVE LETTER (ANIMATED ENVELOPE)
   // -------------------------------------------------------------
   loveLetter: {
-    envelopePrompt: "Roshani, you have one letter waiting for you.",
+    envelopePrompt: "Baby, you have one letter waiting for you.",
     buttonOpen: "💌 Open Letter",
     buttonClose: "Fold Letter Back",
     date: "On Your Special Day",
-    salutation: "Happy Birthday, Roshani ❤️",
+    salutation: "Happy Birthday, my love ❤️",
     paragraphs: [
       "Today isn't just a reminder that you were born.",
       "It's a reminder that my world became infinitely better because you became part of it.",
@@ -442,7 +442,7 @@ export const BIRTHDAY_CONFIG = {
       "Because your eyes sparkle brighter than any diamond on this planet.",
       "Because I'd choose you in every lifetime, in every parallel universe.",
       "Because you are my greatest blessing and favorite companion.",
-      "Because you are Roshani — one of a kind, irreplaceable, and deeply adored.",
+      "Because you are the love of my life — one of a kind, irreplaceable, and deeply adored.",
     ],
   },
 
@@ -455,7 +455,7 @@ export const BIRTHDAY_CONFIG = {
     buttonText: "🎁 Open It",
     revealedTitle: "My favorite gift isn't something I can wrap.",
     revealedHighlight: "It's you. ❤️",
-    revealedEnding: "Happy Birthday, Roshani.",
+    revealedEnding: "Happy Birthday to the love of my life. ❤️",
     subtext: "Thank you for being the sweetest, most generous gift life could ever give me.",
   },
 
@@ -463,7 +463,7 @@ export const BIRTHDAY_CONFIG = {
   // 10. FINAL CINEMATIC SCREEN
   // -------------------------------------------------------------
   finalCinematic: {
-    bigTitle: "Happy Birthday, Roshani ❤️",
+    bigTitle: "Happy Birthday, Baby ❤️",
     wishText: "May this year be as beautiful, unexpected, crazy, and wonderful as you are.",
     animatedTextPart1: "And no matter where life takes us…",
     animatedTextPart2: "…I'll always choose you. ❤️",

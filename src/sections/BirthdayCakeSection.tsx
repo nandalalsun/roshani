@@ -127,7 +127,7 @@ export const BirthdayCakeSection: React.FC = () => {
                 ))}
               </div>
               <p className="font-serif italic font-bold text-velvet-900/80 text-sm sm:text-base tracking-widest uppercase">
-                Happy Birthday {BIRTHDAY_CONFIG.recipientName}
+                Happy Birthday My Love ❤️
               </p>
             </div>
 
